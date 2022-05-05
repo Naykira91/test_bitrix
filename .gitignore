@@ -1,0 +1,17 @@
+.idea/*
+/bitrix
+/upload
+*.log
+*.sql
+*.txt
+*.xml
+*.dt
+*.swp
+*.swo
+*.DS_Store
+*.swf
+*.zip
+*.tar
+*.gz
+.git
+.htaccess
